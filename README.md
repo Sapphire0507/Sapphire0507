@@ -113,13 +113,13 @@ Technologies I've used across projects, experiments, and development workflows.
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,cs,dart,html,css&theme=dark" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,c,cpp,cs,dart,html,css&theme=dark" alt="Programming languages" />
 </p>
 
 **Application & Web Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,sqlite,mysql&theme=dark" alt="Application development and databases" />
+  <img src="https://skillicons.dev/icons?i=flutter,sqlite,mysql&theme=dark" alt="Application development and databases" />
 </p>
 
 **Systems & Developer Tools**
@@ -134,7 +134,7 @@ Technologies I've used across projects, experiments, and development workflows.
   <img src="https://skillicons.dev/icons?i=unreal,unity,godot,blender&theme=dark" alt="Creative software" />
 </p>
 
-**Also worked with:** FastAPI, JavaFX, Gradle, Ollama, and REST APIs.
+**Also worked with:** FastAPI, Gradle, Ollama, and REST APIs.
 
 ## Beyond Software
 
