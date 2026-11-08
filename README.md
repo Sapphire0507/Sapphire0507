@@ -152,17 +152,11 @@ Some of the areas I enjoy exploring outside everyday application development:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sapphire0507&show_icons=true&include_all_commits=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=E05D44&icon_color=E05D44" alt="GitHub statistics" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Sapphire0507&theme=midnight-purple&show_icons=true" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapphire0507&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=E05D44" alt="Most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Sapphire0507&theme=dark&hide_border=true&background=0D1117&ring=E05D44&fire=E05D44&currStreakLabel=E05D44" alt="GitHub contribution streak" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sapphire0507&theme=midnight-purple&layout=compact&langs_count=8" alt="Most used languages" />
 
 <br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sapphire0507&bg_color=0D1117&color=E05D44&line=E05D44&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 
 </div>
 
