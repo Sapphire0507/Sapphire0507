@@ -31,20 +31,22 @@ I'm still exploring which areas I'd like to specialize in, but one thing stays c
 Three projects currently occupying most of my development attention:
 
 <details>
-<summary><strong>pyDoctor</strong> — Python Project Diagnostics & Repair</summary>
+<summary><strong>Nexplay</strong> — Game Discovery & Developer Showcase Platform</summary>
 
-A CLI-first tool that examines Python projects, identifies common problems, and helps repair them.
 
-- Project structure and configuration diagnostics.
-- Import and runtime issue detection.
-- Security checks for common mistakes.
-- Automatic fixes for safe, well-understood issues.
-- Approval before potentially disruptive repairs.
-- Diagnostic reports and repair history.
+An open platform for discovering games, showcasing independent developers, and building a portfolio of published games.
 
-**Stack:** Python 3.12+ · Typer · Rich · pytest
+- Game discovery through search, categories, filters, and collections.
+- Game pages with descriptions, screenshots, trailers, and external download or purchase links.
+- Public developer profiles with portfolios, social links, and student recognition.
+- Developer dashboard for publishing, managing, and tracking games.
+- Community reviews, comments, and game reporting.
+- Moderation tools and platform-wide analytics.
+
+**Stack:** React 19 · JavaScript · FastAPI · Python 3.13+ · PostgreSQL · SQLAlchemy · Cloudflare Workers · Neon
 
 </details>
+
 
 <details>
 <summary><strong>DataLens</strong> — Java Data Analytics Workbench</summary>
@@ -88,13 +90,13 @@ A desktop application for organizing tasks, managing categories, and keeping eve
 
 `Flutter` `Dart` `SQLite`
 
-### [Student Feedback System](https://github.com/Sapphire0507/JavaTesting)
+### [pyDoctor](https://github.com/Sapphire0507/pyDoctor)
 
-**A full-stack student feedback platform.**
+**A Python project diagnostics and repair tool.**
 
-A web application for collecting course feedback and managing ratings. Includes phone OTP authentication, feedback submission, and aggregated course-rating summaries.
+A CLI utility that inspects Python projects, identifies environment and configuration issues, and helps developers resolve them through a structured diagnostic and repair workflow.
 
-`React` `JavaScript` `Node.js` `Express` `SQLite`
+`Python` `Typer` `Rich` `pytest` `packaging`
 
 ### [Icaris Runtime](https://github.com/Sapphire0507/Icaris-Runtime)
 
