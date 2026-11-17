@@ -10,7 +10,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sapphire0507-181717?style=for-the-badge&logo=github)](https://github.com/Sapphire0507)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharth-pardeshi-7842a43b9/)
-[![YouTube](https://img.shields.io/badge/YouTube-Devlogs-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Sapphire05007)
 
 </div>
 
@@ -170,7 +169,7 @@ Some of the areas I enjoy exploring outside everyday application development:
 
 I'm always happy to connect with people who enjoy building, experimenting, and discussing technology.
 
-[GitHub](https://github.com/Sapphire0507) · [LinkedIn](https://www.linkedin.com/in/siddharth-pardeshi-7842a43b9/) · [YouTube Devlogs](https://www.youtube.com/@Sapphire05007)
+[GitHub](https://github.com/Sapphire0507) · [LinkedIn](https://www.linkedin.com/in/siddharth-pardeshi-7842a43b9/)
 
 *Build something interesting. Understand how it works. Make it better.*
 
